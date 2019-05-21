@@ -38,15 +38,9 @@ const checkDateString = () => {
 
 // dividers / |
 const formats = [
+    // javascript specifics
     "DD-MMM-YYYY",
-    "DD-MMM-YYYY HH:mm a",
-    "DD-MM-YYYY",
-    "YYYY",
-    "YY",
-    "MM",
-    "DD-MM-YYYY",
-    "MM-DD-YYYY",
-    "MM||DD"
+    "DD-MMM-YYYY HH:mm a"
 ];
 
 exports.checkDateString = checkDateString;
