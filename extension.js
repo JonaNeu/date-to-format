@@ -6,7 +6,7 @@ const dtf = require("./dateToFormat.js");
  */
 function activate(context) {
     let disposable = vscode.commands.registerCommand(
-        "extension.date-to-dateformat",
+        "extension.date-to-format",
         function() {
             dtf.checkDateString();
         }

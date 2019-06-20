@@ -1,9 +1,16 @@
 {
     "name": "date-to-format",
     "displayName": "Date To Format",
-    "description": "",
-    "version": "0.0.1",
+    "description": "Simple VS Code extension to quickly get the date-format of a given date.",
+    "icon": "https://github.com/JonaNeu/date-to-format/media/icon.png",
+    "version": "1.0.0",
     "publisher": "JonaNeumeier",
+    "keywords": [
+        "date to format",
+        "date",
+        "dateformat",
+        "date to dateformat"
+    ],
     "author": {
         "name": "Jona Neumeier"
     },
@@ -14,14 +21,14 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.date-to-dateformat"
+        "onCommand:extension.date-to-format"
     ],
     "main": "./extension.js",
     "contributes": {
         "commands": [
             {
-                "command": "extension.date-to-dateformat",
-                "title": "Date to Dateformat"
+                "command": "extension.date-to-format",
+                "title": "Date to Format"
             }
         ]
     },

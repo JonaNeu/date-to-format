@@ -1,21 +1,30 @@
-# Date to Dateformat - Visual Studio Code Extension
+# Date to Format - VS Code Extension
 
-put in gif here
+![alt text](https://github.com/JonaNeu/date-to-format/media/usage.gif "How to")
+
+Simple VS Code extension to quickly retrieve the format of a given date. No need to guess or try and error the format of a date again.
 
 ## Installation
 
-Install through VS Code extensions. Search for `Date to Dateformat`
+Install through VS Code extensions. Search for `Date to Format`
 
 ## Usage
 
 ```
 1. Select the date you want to get the format of
-2. Open Command Palette (CMP + SHIFT + P / TODO: windows shortcut here)
-2. Select `Date to Dateformat`
+2. Open Command Palette
+3. Select the right date format
+4. The date is replaced with the format you have chosen
 ```
 
 ## Contribute
 
 Feel free to open issues or PRs!
 
-### How to run it‚
+## License
+
+See License file.
+
+Used Libraries:
+
+-[Moment](https://github.com/moment/moment)

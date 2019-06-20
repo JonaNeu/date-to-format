@@ -17,7 +17,6 @@ const checkDateString = () => {
         }
     }
 
-    // no fitting format
     if (validFormats.length < 1) {
         noFittingFormat = true;
         validFormats.push("No fitting format found.");
@@ -36,11 +35,13 @@ const checkDateString = () => {
         });
 };
 
-// dividers / |
 const formats = [
-    // javascript specifics
     "DD-MMM-YYYY",
-    "DD-MMM-YYYY HH:mm a"
+    "DD-MMM-YYYY HH:mm a",
+    "DD",
+    "MM",
+    "DD-MM-YYYY",
+    "MM-DD-YYYY"
 ];
 
 exports.checkDateString = checkDateString;
