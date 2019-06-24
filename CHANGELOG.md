@@ -2,8 +2,6 @@
 
 All notable changes to the "date-to-format" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0] - 2017-06-20
 
-## [Unreleased]
-
-- Initial release
+-   Initial Release
