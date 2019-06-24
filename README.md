@@ -13,8 +13,9 @@ Install through VS Code extensions. Search for `Date to Format`
 ```
 1. Select the date you want to get the format of
 2. Open Command Palette
-3. Select the right date format
-4. The date is replaced with the format you have chosen
+3. Choose if you want to get the format of a date or time
+4. Select the right format
+5. The date/time is replaced with the format you have chosen
 ```
 
 ## Contribute
