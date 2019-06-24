@@ -2,7 +2,7 @@
     "name": "date-to-format",
     "displayName": "Date To Format",
     "description": "Simple VS Code extension to quickly get the date-format of a given date in Javascript.",
-    "icon": "https://github.com/JonaNeu/date-to-format/blob/master/media/icon.png",
+    "icon": "media/icon.png",
     "version": "1.0.0",
     "publisher": "JonaNeumeier",
     "keywords": [
