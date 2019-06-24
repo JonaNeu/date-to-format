@@ -1,7 +1,5 @@
 # Date to Format - VS Code Extension
 
-![How to](https://github.com/JonaNeu/date-to-format/blob/master/media/usage.gif "How to")
-
 Simple VS Code extension to quickly retrieve the format of a given date in Javascript. No need to guess or try and error the format of a date again.
 
 ## Installation
