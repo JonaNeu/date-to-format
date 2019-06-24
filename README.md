@@ -4,7 +4,7 @@ Simple VS Code extension to quickly retrieve the format of a given date in Javas
 
 ## Installation
 
-Install through VS Code extensions. Search for `Date to Format`
+Install through VS Code extensions. Search for [Date To Format](https://marketplace.visualstudio.com/items?itemName=JonaNeumeier.date-to-format)
 
 ## Usage
 
